@@ -20,6 +20,7 @@ public class Dueno {
 	
 	public Dueno() {
 		super();
+		// TODO Auto-generated constructor stub
 	}
 	
 	public Dueno(int iddueno, String nombre, Mascota idMascota, Rol idrol) {
@@ -67,5 +68,8 @@ public class Dueno {
 		return "Dueno [iddueno=" + iddueno + ", nombre=" + nombre + ", idMascota=" + idMascota + ", idrol=" + idrol
 				+ "]";
 	}
+	
+	
+	
 	
 }
